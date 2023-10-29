@@ -1,0 +1,67 @@
+
+Requirements Gathering Document
+
+
+No.	Group Name (Group A)
+1	Member 1.
+2	Member 2.
+5	Member 5.
+
+
+	
+Module Name	 FACAL
+Date	 Feb 22nd, 2023
+Version	 1.0
+
+ 
+
+Requirements (Sample Data are in the table)
+ID	Requirements	Date	Related features	Related stakeholders	Type (Functional / Non-Functional)
+1	Homepage	Feb 22nd, 2023	College/Department Name and Logo
+A Brief Welcome Message
+Navigation Menu for easy access to various sections of the website	.
+Student.
+	Functional
+2	About Us	Feb 22nd, 2023	Overview of the Computer Science Department
+Mission and Vision
+History and Achievements
+Information about Faculty and Staff	
+teacher
+student.	Functional
+3	Academics	Feb 22nd, 2023	Academic Programs (Bachelor's, Master's, PhD)
+Course Catalog
+Academic Calendar
+Admissions Information
+Internship and Research Opportunities	system administrator
+teacher
+student	Functional
+4	News and Events	Feb 22nd, 2023	Announcements
+Upcoming Events
+News and Blog Section
+Alumni Success Stories	admin
+student	Functional
+5	Contact Information	Feb 22nd, 2023	Contact Details (Phone, Email, Location)
+Interactive Campus Map
+Inquiry Forms	employee
+student	Functional
+6	Gallery	Feb 22nd, 2023	Photos and Videos of the Campus, Labs, Events, etc.	student	Functional
+7	FAQ Section:	Feb 22nd, 2023	Commonly asked questions and answers.	student	Functional
+8	Search Functionality:
+	Feb 22nd, 2023	A search bar to help users find specific information quickly.	student	Functional
+9	Social Media Integration:
+	Feb 22nd, 2023	Links to the college's social media profiles.	student	Functional
+10	Responsive Design:
+	Feb 22nd, 2023	Ensure the website is mobile-friendly and works well on different devices.	programer
+student	Functional
+11	Accessibility:
+	Feb 22nd, 2023	Make the website accessible to people with disabilities by following web accessibility guidelines.	student	Non-Functional
+12	Security	Feb 22nd, 2023	Implement security measures to protect user data and the website from cyber threats.	student	Non-Functional
+13	Privacy Policy:
+	Feb 22nd, 2023	Include a privacy policy to inform users about how their data is collected and used.	student
+culutre	Non-Functional
+14	Legal Information:
+	Feb 22nd, 2023	Copyright notices, terms of use, and other legal disclaimers.	student 
+country	Non-Functional
+15	Site Map:
+	Feb 22nd, 2023	An organized, visual representation of the website's structure.	admin
+student	Functional
